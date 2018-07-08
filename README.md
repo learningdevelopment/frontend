@@ -23,3 +23,7 @@ Lesson for html css and javascript.
     * 类选择器 .xxxxx 权重 10
     * 标签选择器 xxxx 权重 1
     * 选择器 { 属性: 值; ...} 该条规则的权重越大，则可以覆盖权重低的规则的css设置
+
+# lesson 3
+
+* common style property 常见css样式属性
