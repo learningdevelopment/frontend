@@ -3,9 +3,9 @@ Lesson for html css and javascript.
 
 # lesson 1
 
-* visual studio code
+* [visual studio code](https://code.visualstudio.com/)
 * chrome dev tools
-* nodejs & npm & serve
+* [nodejs](https://nodejs.org/en/) & npm & serve
 * basic html tag
 
 # lesson 2
