@@ -28,6 +28,21 @@ Lesson for html css and javascript.
 
 * common style property 常见css样式属性
 
+  * background-color 背景色
+  * background-image 背景图
+  * background-attach 背景伴随
+  * text-align 文字对齐
+  * line-height 行高
+  * letter-spacing 字符间距
+  * text-decoration 文本装饰
+  * font-family 字体系列
+  * font-style 字体样式
+  * font-weight 字体粗细
+  * font-size 字体大小
+  * a:Link/Visited/Hover/Active 伪类
+  * list-style: 组合描述列表样式
+  * 盒模型
+
 # lesson 4
 
 * 布局模型
